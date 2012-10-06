@@ -1,0 +1,38 @@
+html, body {
+    width : 100%;
+    margin : 0;
+    padding : 0;
+}
+.title_wrapper {
+    text-align : center;
+    margin-top : 150px;
+}
+.circle, .title_text {
+    display : inline-block;
+    vertical-align : middle;
+}
+.title_text {
+    color : #dddbc9;
+    font-size : 50px;
+    font-family : 'Marcellus SC', serif;
+    padding : 0 20px 6px 20px;
+}
+.circle {
+    background-color : #eeeae6;
+    margin : 0 10px;
+}
+.circle1 {
+    width : 10px;
+    height : 10px;
+    border-radius : 5px;
+}
+.circle2 {
+    width : 15px;
+    height : 15px;
+    border-radius : 10px;
+}
+.circle3 {
+    width : 20px;
+    height : 20px;
+    border-radius : 10px;
+}
