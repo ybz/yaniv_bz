@@ -12,26 +12,28 @@ html, body {
     vertical-align : middle;
 }
 .title_text {
-    color : #dddbc9;
+    color : #1D3221;
     font-size : 50px;
     font-family : 'Marcellus SC', serif;
     padding : 0 20px 6px 20px;
 }
 .circle {
-    background-color : #eeeae6;
     margin : 0 10px;
 }
 .circle1 {
+    background-color : #EFEA99;
     width : 10px;
     height : 10px;
     border-radius : 5px;
 }
 .circle2 {
+    background-color : #AEBE77;
     width : 15px;
     height : 15px;
     border-radius : 10px;
 }
 .circle3 {
+    background-color : #959F63;
     width : 20px;
     height : 20px;
     border-radius : 10px;
