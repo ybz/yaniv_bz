@@ -1,40 +1,19 @@
 html, body {
+    background-color : #fff;
+    height : 100%;
     width : 100%;
     margin : 0;
     padding : 0;
-}
-.title_wrapper {
     text-align : center;
-    margin-top : 150px;
+    white-space : nowrap;
 }
-.circle, .title_text {
+.vertical_aligner {
     display : inline-block;
     vertical-align : middle;
+    height : 100%;
 }
-.title_text {
-    color : #1D3221;
-    font-size : 50px;
-    font-family : 'Marcellus SC', serif;
-    padding : 0 20px 6px 20px;
-}
-.circle {
-    margin : 0 10px;
-}
-.circle1 {
-    background-color : #EFEA99;
-    width : 10px;
-    height : 10px;
-    border-radius : 5px;
-}
-.circle2 {
-    background-color : #AEBE77;
-    width : 15px;
-    height : 15px;
-    border-radius : 10px;
-}
-.circle3 {
-    background-color : #959F63;
-    width : 20px;
-    height : 20px;
-    border-radius : 10px;
+img {
+    display : inline-block;
+    vertical-align : middle;
+    margin : 0 10px 50px 10px;
 }
